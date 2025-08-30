@@ -90,24 +90,24 @@ export const defaultCVData: CVData = {
       responsibilities: [],
       websites: []
     },
-    {
-      id: "3",
-      title: "Instructor",
-      company: "Dansk Oplysnings Forbund",
-      period: "2015 - 2015",
-      description: "Instructor in Adobe Elements with responsibility for creating and structuring the course",
-      responsibilities: [],
-      websites: []
-    },
-    {
-      id: "4",
-      title: "Instructor",
-      company: "Den Rytmiske, Nordkraft",
-      period: "2014 - 2015",
-      description: "Instructor in Ableton Live with responsibility for creating and structuring the course",
-      responsibilities: [],
-      websites: []
-    }
+    // {
+    //   id: "3",
+    //   title: "Instructor",
+    //   company: "Dansk Oplysnings Forbund",
+    //   period: "2015 - 2015",
+    //   description: "Instructor in Adobe Elements with responsibility for creating and structuring the course",
+    //   responsibilities: [],
+    //   websites: []
+    // },
+    // {
+    //   id: "4",
+    //   title: "Instructor",
+    //   company: "Den Rytmiske, Nordkraft",
+    //   period: "2014 - 2015",
+    //   description: "Instructor in Ableton Live with responsibility for creating and structuring the course",
+    //   responsibilities: [],
+    //   websites: []
+    // }
   ],
   education: [
     {
